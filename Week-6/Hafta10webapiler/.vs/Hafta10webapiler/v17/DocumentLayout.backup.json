@@ -1,20 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\Hafta10webapiler\\",
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\excalibur\\desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\hafta10webapiler\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\excalibur\\desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\excalibur\\desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\Hafta10webapiler\\controllers\\bizimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\controllers\\bizimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:controllers\\bizimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\hafta10webapiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:hafta10webapiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\blazorapp1\\blazorapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,56 +32,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\Hafta10webapiler\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\Hafta10webapiler\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-18T07:58:50.975Z",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:16:35.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\BlazorApp1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BlazorApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\BlazorApp1\\Program.cs",
-              "RelativeToolTip": "..\\BlazorApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T07:56:31.754Z"
+              "WhenOpened": "2025-11-22T14:16:33.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\BlazorApp1\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp1\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\BlazorApp1\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "..\\BlazorApp1\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T08:01:14.691Z"
+              "DocumentIndex": 0,
+              "Title": "BizimController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\BizimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BizimController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\BizimController.cs",
+              "RelativeToolTip": "Controllers\\BizimController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:16:29.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BizimController.cs",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\Hafta10webapiler\\Controllers\\BizimController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BizimController.cs",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\4.s\u0131n\u0131f dersler\u0131\\web-servisleri\\Hafta10webapiler\\Controllers\\BizimController.cs",
-              "RelativeToolTip": "Controllers\\BizimController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwB4AAAAlAAAA",
+              "Title": "Hafta10webapiler",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj",
+              "RelativeDocumentMoniker": "Hafta10webapiler.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj",
+              "RelativeToolTip": "Hafta10webapiler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T14:16:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazorApp1",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T14:16:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T07:17:36.063Z"
+              "WhenOpened": "2025-11-22T14:16:05.057Z",
+              "EditorCaption": ""
             }
           ]
         }

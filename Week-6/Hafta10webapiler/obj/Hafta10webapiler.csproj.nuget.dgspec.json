@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week-6\\Hafta10webapiler\\Hafta10webapiler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week-6\\Hafta10webapiler\\Hafta10webapiler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week-6\\Hafta10webapiler\\Hafta10webapiler.csproj",
         "projectName": "Hafta10webapiler",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week-6\\Hafta10webapiler\\Hafta10webapiler.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\hafta6\\Hafta10webapiler\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week-6\\Hafta10webapiler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\",
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\controllers\\bizimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\week-6\\hafta10webapiler\\controllers\\bizimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:controllers\\bizimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\week-6\\hafta10webapiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\hafta10webapiler\\hafta10webapiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\week-6\\hafta10webapiler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\week-6\\hafta10webapiler\\hafta10webapiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}|Hafta10webapiler.csproj|solutionrelative:hafta10webapiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\blazorapp1\\blazorapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\hafta6\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,73 +32,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:16:35.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:16:33.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BizimController.cs",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\BizimController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BizimController.cs",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Controllers\\BizimController.cs",
-              "RelativeToolTip": "Controllers\\BizimController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:16:29.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Hafta10webapiler",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj",
-              "RelativeDocumentMoniker": "Hafta10webapiler.csproj",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\Hafta10webapiler\\Hafta10webapiler.csproj",
-              "RelativeToolTip": "Hafta10webapiler.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:16:25.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlazorApp1",
-              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
-              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1.csproj",
-              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
-              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T14:16:01.7Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -112,17 +47,82 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:16:35.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:16:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BizimController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Controllers\\BizimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BizimController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Controllers\\BizimController.cs",
+              "RelativeToolTip": "Controllers\\BizimController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:16:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hafta10webapiler.csproj",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Hafta10webapiler.csproj",
+              "RelativeDocumentMoniker": "Hafta10webapiler.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week-6\\Hafta10webapiler\\Hafta10webapiler.csproj",
+              "RelativeToolTip": "Hafta10webapiler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T14:16:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazorApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeToolTip": "..\\..\\hafta6\\BlazorApp1\\BlazorApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T14:16:01.7Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\hafta6\\BlazorApp1\\Program.cs",
               "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\hafta6\\BlazorApp1\\Program.cs",
-              "RelativeToolTip": "..\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\hafta6\\BlazorApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:16:05.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T14:16:05.057Z"
             }
           ]
         }
