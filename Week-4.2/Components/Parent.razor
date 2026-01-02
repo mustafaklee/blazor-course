@@ -1,0 +1,16 @@
+﻿<h3>Parent</h3>
+<Child @ref="sayi1" _yaziDegisti="Topla"></Child>
+<Child @ref="sayi2" _yaziDegisti="Topla"></Child>
+<label>Sonuç : @sonuc</label>
+@code {
+    public Child sayi1 { get; set; }
+    public Child sayi2 { get; set; }
+
+
+    public int  sonuc { get; set; }
+
+    public void Topla()
+    {
+        sonuc = Convert.ToInt32(sayi1.Text) + Convert.ToInt32(sayi2.Text);
+    }
+}

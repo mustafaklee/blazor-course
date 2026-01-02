@@ -1,0 +1,20 @@
+﻿<h3>Parent</h3>
+<Child @ref="child1"></Child>
+<Child @ref="child2"></Child>
+<Child @ref="child3"></Child>
+
+<button class="btn btn-primary" @onclick="buttonClicked">Topla</button>
+@code {
+    public Child child1 { get; set; }
+    public Child child2 { get; set; }
+    public Child child3 { get; set; }
+
+
+    public void buttonClicked()
+    {
+        int sayi1, sayi2, sonuc;
+        sayi1 = Convert.ToInt32(child1.text);
+        sayi2 = Convert.ToInt32(child2.text);
+        child3.DegerAta(sayi1 + sayi2);
+    }
+}

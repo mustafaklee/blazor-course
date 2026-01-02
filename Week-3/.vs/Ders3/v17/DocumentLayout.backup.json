@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Ders3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25376F2-DC38-4E76-AEC4-45D71AA085F8}|Ders3.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\ders3\\components\\pages\\kare.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25376F2-DC38-4E76-AEC4-45D71AA085F8}|Ders3.csproj|solutionrelative:components\\pages\\kare.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25376F2-DC38-4E76-AEC4-45D71AA085F8}|Ders3.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\ders3\\components\\pages\\ornekhome2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25376F2-DC38-4E76-AEC4-45D71AA085F8}|Ders3.csproj|solutionrelative:components\\pages\\ornekhome2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kare.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Ders3\\Components\\Pages\\Kare.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Kare.razor",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Ders3\\Components\\Pages\\Kare.razor",
+              "RelativeToolTip": "Components\\Pages\\Kare.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T14:20:54.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrnekHome2.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Ders3\\Components\\Pages\\OrnekHome2.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\OrnekHome2.razor",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Ders3\\Components\\Pages\\OrnekHome2.razor",
+              "RelativeToolTip": "Components\\Pages\\OrnekHome2.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T08:28:28.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

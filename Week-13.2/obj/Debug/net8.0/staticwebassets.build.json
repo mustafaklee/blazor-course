@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "oyHPvHQ0fJm1wwVp0CxtLRkOveJNOCUDJUOluaEoPFo=",
+  "Source": "Week13_new_self_auth",
+  "BasePath": "_content/Week13_new_self_auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Week13_new_self_auth\\wwwroot",
+      "Source": "Week13_new_self_auth",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Week13_new_self_auth.styles.css",
+      "SourceId": "Week13_new_self_auth",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "RelativePath": "Week13_new_self_auth#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "rc77kxxofg",
+      "Integrity": "BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Week13_new_self_auth.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Week13_new_self_auth.bundle.scp.css",
+      "SourceId": "Week13_new_self_auth",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "RelativePath": "Week13_new_self_auth#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "rc77kxxofg",
+      "Integrity": "BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Week13_new_self_auth.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\app.css",
+      "SourceId": "Week13_new_self_auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Week13_new_self_auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Week13_new_self_auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\favicon.png",
+      "SourceId": "Week13_new_self_auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\",
+      "BasePath": "_content/Week13_new_self_auth",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "Week13_new_self_auth.bundle.scp.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Week13_new_self_auth.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:49:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM="
+        }
+      ]
+    },
+    {
+      "Route": "Week13_new_self_auth.rc77kxxofg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Week13_new_self_auth.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:49:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rc77kxxofg"
+        },
+        {
+          "Name": "label",
+          "Value": "Week13_new_self_auth.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM="
+        }
+      ]
+    },
+    {
+      "Route": "Week13_new_self_auth.rc77kxxofg.styles.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Week13_new_self_auth.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:49:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rc77kxxofg"
+        },
+        {
+          "Name": "label",
+          "Value": "Week13_new_self_auth.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM="
+        }
+      ]
+    },
+    {
+      "Route": "Week13_new_self_auth.styles.css",
+      "AssetFile": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Week13_new_self_auth.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 08:49:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRfFs7acJuiNpZhtfrnqjuC7+3+3PFK0zQuzeFhRUqM="
+        }
+      ]
+    }
+  ]
+}

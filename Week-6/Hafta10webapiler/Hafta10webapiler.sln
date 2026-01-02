@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta10webapiler", "Hafta10webapiler.csproj", "{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "..\BlazorApp1\BlazorApp1.csproj", "{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{4DB422C5-C8B3-48A3-AC1E-7595D865025B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEB", "WEB", "{E1C62AAF-D894-4CA2-8FAE-DA87ED8FCA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC48CE8-2437-4B6D-8BC1-2AED07C1BC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DBCBC2-63DC-4ACE-A53D-AEC2B4215CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B050CED3-F6B0-448F-BEC3-82521A58B764}
+	EndGlobalSection
+EndGlobal

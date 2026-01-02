@@ -1,0 +1,32 @@
+﻿@page "/"
+@inject NavigationManager nav
+@* <Parent></Parent>
+ *@<PageTitle>Home</PageTitle>
+<AnaKompanent></AnaKompanent>
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+
+<CascadingValue Name="y2" Value="ikinciYazi">
+    <CascadingValue Name="y1" Value="yazi">
+        <AnaKompanent></AnaKompanent>
+    </CascadingValue>
+</CascadingValue>
+
+
+<Parent></Parent>
+
+<button class="btn btn-primary" @onclick="ButonaTiklandi">Sayaç sayfasına yönlendir.</button>
+
+
+@code{
+    string yazi = "Merhaba dünyali";
+    string ikinciYazi = "Selam Dünyalı ben ikinci yazıyım'da";
+
+
+    public void ButonaTiklandi()
+    {
+        nav.NavigateTo("/counter",true);
+    }
+}

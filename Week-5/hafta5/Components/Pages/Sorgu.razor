@@ -1,0 +1,32 @@
+﻿@page "/sorgu/{UrunID:int}"
+@page "/listeleme"
+@page "/tamsorgu/{urunID:int}/{UrunAdi}"
+
+<h3>
+	Sorgu
+</h3>
+<div>
+	<p>Sorgulanacak Urun ID: @UrunID</p>
+	<p>Ürün Adı: @UrunAdi</p>
+</div>
+
+
+
+
+@code {
+
+	[Parameter]
+	public int? UrunID{ get; set; }
+
+	[Parameter]
+	public string UrunAdi{ get; set; } 
+
+
+	// Route param: URL’in parçası → @page "/x/{id}", [Parameter] public int id { get; set; }
+
+	// Query string: ?key=value → elle okursun veya[SupplyParameterFromQuery] ile bağlarsın.
+
+	// Kısıtlar: {UrunID:int} gibi yazınca Blazor, sadece int’e uyan URL’leri bu sayfaya eşleştirir.
+
+
+}

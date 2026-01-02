@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2099D7-257E-49C1-8529-88406C875B14}|week12Blazor\\week12Blazor.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\yazilim m\u00FChendisli\u011Fi dersleri\\4.s\u0131n\u0131f\\web servisleri\\week12\\week12blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2099D7-257E-49C1-8529-88406C875B14}|week12Blazor\\week12Blazor.csproj|solutionrelative:week12blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week12\\week12Blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "week12Blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\Yazilim M\u00FChendisli\u011Fi Dersleri\\4.S\u0131n\u0131f\\Web Servisleri\\Week12\\week12Blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "week12Blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T08:54:34.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

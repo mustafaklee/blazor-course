@@ -1,0 +1,14 @@
+﻿<h3>Child</h3>
+
+<textarea @bind="Text" @bind:event="onchange" @bind:after="YaziDegisti"></textarea>
+
+
+@code {
+    public string Text { get; set; }
+    [Parameter]
+    public EventCallback _yaziDegisti { get; set; }
+    public void YaziDegisti()
+    {
+        _yaziDegisti.InvokeAsync();
+    }
+}

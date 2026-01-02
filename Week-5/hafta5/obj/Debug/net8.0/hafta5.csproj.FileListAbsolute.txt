@@ -1,0 +1,95 @@
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\appsettings.json
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\hafta5.staticwebassets.runtime.json
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\hafta5.exe
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\hafta5.deps.json
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\hafta5.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\hafta5.dll
+C:\Users\EXCALIBUR\Desktop\hafta5\bin\Debug\net8.0\hafta5.pdb
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.hafta5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.build.hafta5.props
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hafta5.props
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hafta5.props
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\scopedcss\bundle\hafta5.styles.css
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\scopedcss\projectbundle\hafta5.bundle.scp.css
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.dll
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\refint\hafta5.dll
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.pdb
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\hafta5.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\hafta5\obj\Debug\net8.0\ref\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\appsettings.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.staticwebassets.runtime.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.staticwebassets.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.exe
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.pdb
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\bundle\hafta5.styles.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\projectbundle\hafta5.bundle.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.hafta5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.hafta5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.build.hafta5.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hafta5.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hafta5.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\refint\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.pdb
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\ref\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\appsettings.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.staticwebassets.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.staticwebassets.runtime.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.exe
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\bin\Debug\net8.0\hafta5.pdb
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\bundle\hafta5.styles.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\scopedcss\projectbundle\hafta5.bundle.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.hafta5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.hafta5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.build.hafta5.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hafta5.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hafta5.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\refint\hafta5.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.pdb
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\hafta5.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\hafta5\hafta5\obj\Debug\net8.0\ref\hafta5.dll

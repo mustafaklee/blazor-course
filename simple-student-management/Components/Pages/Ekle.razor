@@ -1,0 +1,37 @@
+﻿@page "/ekle"
+@using BlazorObs.Models
+@rendermode InteractiveServer
+@inject NavigationManager nav
+@inject OgrenciService service // Servisi enjekte et
+
+<h3> Ogrenci Ekle</h3>
+
+<div style="display:flex;column-gap:5px;flex-direction:column;width:100px;height:100px;">
+    <label>Ad Soyad</label>
+    <input type="text" @bind="ogrenci.adSoyad" />
+
+    <label>Ogrenci Numarasi</label>
+    <input type="text" @bind="ogrenci.ogrenciNo" />
+
+    <label>Bolum</label>
+    <input type="text" @bind="ogrenci.bolum" />
+
+    <label>Vize</label>
+    <input type="number" @bind="ogrenci.vize" /> <label>Final</label>
+    <input type="number" @bind="ogrenci.final" />
+
+    <input type="button" @onclick="ogrenciEkle" Value="Ogrenci Ekle" />
+</div>
+
+@code {
+    public Ogrenci ogrenci { get; set; } = new();
+
+    public async Task ogrenciEkle()
+    {
+        // Ekleme işini servise devret
+        await service.AddOgrenciAsync(ogrenci);
+
+        // Artık MainPage'e bağlı değiliz!
+        nav.NavigateTo("/");
+    }
+}

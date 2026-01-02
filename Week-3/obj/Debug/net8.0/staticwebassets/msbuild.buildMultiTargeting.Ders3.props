@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ders3.props" />
+</Project>

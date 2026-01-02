@@ -1,0 +1,61 @@
+﻿@page "/"
+@using Ders3.Models
+@rendermode InteractiveServer
+
+<label>Numara:</label>
+<input value="@ogrenci.ogrenciNo" />
+<label>Ad Soyad:</label>
+<input @bind="ogrenci.AdSoyad" />
+<label>Bölüm:</label>
+<input @bind="ogrenci.Bolum" />
+<label>TC:</label>
+<input @bind="ogrenci.TC" />
+<input type="button" @onclick="OgrenciEkle" value="merhaba button"/>
+<button @onclick="OgrenciEkle">MERHBAAN</button>
+@foreach (var item in Ogrenciler)
+{
+    <p>@item.ogrenciNo</p>
+    <p>@item.AdSoyad</p>
+    <p>@item.Bolum</p>
+    <p>@item.TC</p>
+}
+@code {
+
+
+
+    public Ogrenci ogrenci { get; set; }
+
+    public List<Ogrenci> Ogrenciler { get; set; }
+
+    public void OgrenciEkle()
+    {
+        Ogrenciler.Add(ogrenci);
+        ogrenci = new Ogrenci(); //yeni nesne oluşturuyoruz.
+    }
+
+    //sonra bu calısır
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("Paramater set çalıştı");
+    }
+    //once bu calısır
+    protected override void OnInitialized()
+    {
+        ogrenci = new Ogrenci();
+        Ogrenciler = new List<Ogrenci>();
+        Console.WriteLine("initialize calıstı");
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            Console.WriteLine("ilk defa calıstı");
+        }
+        else
+        {
+            Console.WriteLine("sayfa tazelendi");
+
+        }
+    }
+}

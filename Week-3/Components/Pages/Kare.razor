@@ -1,0 +1,29 @@
+﻿<h3>Kare</h3>
+
+<div>
+    <p>
+        @Yazi
+    </p>
+</div>
+
+<style>
+    div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    background-color:@Renk;
+    }
+</style>
+
+@code {
+    [Parameter]
+    public string Yazi { get; set; } = "";
+    [Parameter]
+    public string Renk { get; set; } = "#FF0000";
+
+    public void Method()
+    {
+        Yazi = "Yazi değişti";
+        Renk = "#FF0300";
+    }
+}

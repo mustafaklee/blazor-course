@@ -1,0 +1,6 @@
+@Hafta10webapiler_HostAddress = http://localhost:5187
+
+GET {{Hafta10webapiler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

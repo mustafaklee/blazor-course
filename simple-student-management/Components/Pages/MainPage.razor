@@ -1,0 +1,40 @@
+﻿@page "/"
+@using BlazorObs.Models
+@inject NavigationManager nav
+@inject OgrenciService service // Servisi enjekte et
+
+<h3>Öğrenci Listesi</h3>
+<a href="/ekle">Yeni Öğrenci Ekle</a>
+
+<table>
+    @if (ogrenciler != null)
+    {
+        @foreach (var ogrenci in ogrenciler)
+        {
+            <tr>
+                <td>@ogrenci.ogrenciNo</td>
+                <td>@ogrenci.adSoyad</td>
+
+                <td><input style=" color:blue" type="button" @onclick="()=>detayGonder(ogrenci.ogrenciNo)" value="Detay" /></td>
+            </tr>
+        }
+    }
+</table>
+
+@code {
+    // Artık static değil!
+    public List<Ogrenci> ogrenciler { get; set; }
+
+    // Sayfa yüklenirken verileri servisten çek
+    protected override async Task OnInitializedAsync()
+    {
+        ogrenciler = await service.GetOgrencilerAsync();
+    }
+
+    public void detayGonder(string ogrenciNumarasi)
+    {
+        // Static değişkene atama YOK!
+        // Sadece öğrenci numarası ile doğru URL'ye yönlendir.
+        nav.NavigateTo($"/detay/{ogrenciNumarasi}");
+    }
+}

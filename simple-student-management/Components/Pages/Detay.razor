@@ -1,0 +1,45 @@
+﻿@page "/detay/{OgrenciNo}"
+@using BlazorObs.Models
+@rendermode InteractiveServer
+@inject OgrenciService service // Servisi enjekte et
+
+<h3>Detay</h3>
+
+@if (ogrenci != null)
+{
+    <table>
+        <tr>
+            <td>@ogrenci.ogrenciNo</td>
+            <td>@ogrenci.adSoyad</td>
+            <td>@ogrenci.bolum</td>
+            <td>@ogrenci.vize</td>
+            <td>@ogrenci.final</td>
+            <td>@ogrenci.ortalama</td>
+        </tr>
+    </table>
+}
+else
+{
+    <p>Öğrenci bulunamadı.</p>
+}
+
+
+@code {
+    // ÇÖZÜM 2'NİN DEVAMI:
+    // Bu 'Parameter' artık static DEĞİL ve URL'den (@page direktifinden) geliyor.
+    [Parameter]
+    public string OgrenciNo { get; set; }
+
+    // Bu da static DEĞİL!
+    public Ogrenci ogrenci { get; set; }
+
+    // Bileşen parametreleri aldığında (yani OgrenciNo URL'den geldiğinde) çalışır
+    protected override async Task OnParametersSetAsync()
+    {
+        if (!string.IsNullOrEmpty(OgrenciNo))
+        {
+            // Servisten doğru öğrenciyi ID/No ile çek
+            ogrenci = await service.GetOgrenciByNoAsync(OgrenciNo);
+        }
+    }
+}

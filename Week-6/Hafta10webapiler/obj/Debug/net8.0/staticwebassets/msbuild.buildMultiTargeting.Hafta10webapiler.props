@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hafta10webapiler.props" />
+</Project>

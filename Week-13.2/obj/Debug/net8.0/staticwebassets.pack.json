@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Week13_new_self_auth.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Week13_new_self_auth.rc77kxxofg.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13_new_self_auth\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Week13_new_self_auth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Week13_new_self_auth.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Week13_new_self_auth.props",
+      "PackagePath": "build\\Week13_new_self_auth.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Week13_new_self_auth.props",
+      "PackagePath": "buildMultiTargeting\\Week13_new_self_auth.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Week13_new_self_auth.props",
+      "PackagePath": "buildTransitive\\Week13_new_self_auth.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

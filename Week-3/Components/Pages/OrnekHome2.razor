@@ -1,0 +1,23 @@
+﻿@page "/ornek2"
+
+<h3>OrnekHome2</h3>
+<Kare @ref="BirinciKare" Yazi="merhaba">
+
+</Kare >
+<Kare @ref="İkinciKare" Yazi="Selam">
+
+</Kare>
+<button @onclick = "Calistir">
+    Click Me Button Me
+</button>
+
+
+@code {
+    public Kare BirinciKare { get; set; }
+    public Kare İkinciKare { get; set; }
+    public void Calistir()
+    {
+        BirinciKare.Method();
+        İkinciKare.Yazi = "Otomatik Değişti";
+    }
+}

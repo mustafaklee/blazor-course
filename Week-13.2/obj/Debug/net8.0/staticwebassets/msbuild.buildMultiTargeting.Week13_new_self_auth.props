@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Week13_new_self_auth.props" />
+</Project>

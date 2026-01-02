@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hafta5.props" />
+</Project>

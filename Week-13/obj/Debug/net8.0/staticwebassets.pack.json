@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Week13.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Week13.fja7ni9v3z.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\musta\\OneDrive\\Masaüstü\\Yazilim Mühendisliği Dersleri\\4.Sınıf\\Web Servisleri\\Week13\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Week13.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Week13.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Week13.props",
+      "PackagePath": "build\\Week13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Week13.props",
+      "PackagePath": "buildMultiTargeting\\Week13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Week13.props",
+      "PackagePath": "buildTransitive\\Week13.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

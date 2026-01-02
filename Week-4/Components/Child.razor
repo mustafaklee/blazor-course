@@ -1,0 +1,14 @@
+﻿<h3>Child</h3>
+<div>
+    <textarea @bind="text"></textarea>
+</div>
+
+@code {
+    [Parameter]
+    public string text { get; set; }
+
+    public void DegerAta(int deger)
+    {
+        text = deger.ToString();
+    }
+}

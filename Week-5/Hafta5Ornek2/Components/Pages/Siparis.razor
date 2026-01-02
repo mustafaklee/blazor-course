@@ -1,0 +1,68 @@
+﻿@page "/siparis"
+@inject UrunService _urunService
+@using Hafta5Ornek2.Models
+<h3>Siparis</h3>
+
+<div style="display:flex;flex-direction:row;row-gap:20px;">
+	@foreach (var item in Urunler)
+	{
+		<div style="border-style:solid;border-color:black;">
+			<p>@item.Baslik @item.STT</p>
+
+			<div>
+				<p>@item.adet</p>
+				<button @onclick="()=>item.adet--">Azaltma</button>
+				<button @onclick="()=>item.adet++">Arttırma</button>
+				<button @onclick="()=>SepeteEkle(item)">SepeteEkle</button>
+				<button @onclick="()=>SepettenSil(item)">Sepetten Sil</button>
+			</div>
+		</div>
+	}
+</div>
+<div>
+	Sepette Toplam @SepetUrunCesidi cesit ürün var
+</div>
+<p>Toplam Urun sayısı: @ToplamUrun</p>
+@code {
+	public List<Urun>Urunler{ get; set; }
+	public int ToplamUrun{ get; set; }
+	public int SepetUrunCesidi{ get; set; }
+	public string Alert{ get; set; }
+
+	protected override void OnInitialized()
+	{
+		Urunler = _urunService.TumUrunler;
+		SepetUrunCesidi = _urunService.Sepet.Count;
+		ToplamUrun = _urunService.Sepet.Sum(x=>x.adet);
+	}
+
+	public void SepeteEkle(Urun urun)
+	{
+		if (urun.adet <= 0)
+		{
+			Alert = "urun sayısı negatıf yada 0 olamaz";
+			return;
+		}
+
+		_urunService.SepeteEkle(urun);
+		SepetUrunCesidi = _urunService.Sepet.DistinctBy(p=>p.urunId).Count();
+		ToplamUrun = _urunService.Sepet.Sum(x => x.adet);
+
+	}
+
+	public void SepettenSil(Urun urun)
+	{
+		if (_urunService.Sepet.FirstOrDefault(x=>x.urunId == urun.urunId)!=null)
+		{
+			_urunService.SepettenSil(urun);
+			SepetUrunCesidi = _urunService.Sepet.DistinctBy(p => p.urunId).Count();
+			ToplamUrun = _urunService.Sepet.Sum(x => x.adet);
+		}
+		else
+		{
+			Alert = "Sepette bu üründen yok.";
+		}
+	}
+}
+
+@* sayfaya erısmek ıcın https://localhost:7251/siparis  kullanıyoruz *@

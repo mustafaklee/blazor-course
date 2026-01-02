@@ -1,0 +1,51 @@
+﻿@page "/"
+@inject IHttpClientFactory _client
+
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<button @onclick="ButonaBasildi">Çağır</button>
+
+<div>@Sonuc</div>
+
+Welcome to your new app.
+
+@code{
+
+	public string Sonuc{ get; set; }
+
+	// private async Task ButonaBasildi()
+	// {
+	// 	HttpClient istemci = _client.CreateClient("WEBAPI");
+	// 	string sonuc= "";
+	// 	var gelen = await istemci.GetFromJsonAsync <List<string>>("/api/Bizim/Deneme2");
+	// 	Sonuc = gelen.FirstOrDefault();
+	// }
+
+	private async Task ButonaBasildi()
+	{
+		HttpClient istemci = _client.CreateClient("WEBAPI");
+		string sonuc = "";
+		//get from json her zaman kullanıcının okey dondugunu kabul eder 
+		// var gelen = await istemci.GetFromJsonAsync<List<string>>("/api/Bizim/Deneme10/450");
+		// Sonuc = gelen.FirstOrDefault();
+		HttpResponseMessage gelen= await istemci.GetAsync("/api/Bizim/Deneme10/");
+		if (gelen.IsSuccessStatusCode)
+		{	
+			//nullable
+			var gelenler = (await gelen.Content.ReadFromJsonAsync<List<string>>());
+			Sonuc = gelenler.FirstOrDefault();
+		}
+		else
+		{
+			Sonuc = "Hata: " + gelen.StatusCode;
+		}
+	}
+
+
+
+
+
+}

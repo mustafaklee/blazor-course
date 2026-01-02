@@ -1,0 +1,66 @@
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\appsettings.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.staticwebassets.runtime.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.staticwebassets.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.exe
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.pdb
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\bundle\BlazorObs.styles.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\projectbundle\BlazorObs.bundle.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.BlazorObs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.BlazorObs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorObs.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorObs.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorObs.props
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\refint\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.pdb
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Dersler\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\ref\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\appsettings.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.staticwebassets.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.staticwebassets.runtime.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.exe
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\bin\Debug\net8.0\BlazorObs.pdb
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\bundle\BlazorObs.styles.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\scopedcss\projectbundle\BlazorObs.bundle.scp.css
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.BlazorObs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.BlazorObs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorObs.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorObs.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorObs.props
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\refint\BlazorObs.dll
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.pdb
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\BlazorObs.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Yazilim Mühendisliği Dersleri\4.Sınıf\Web Servisleri\BlazorObs\obj\Debug\net8.0\ref\BlazorObs.dll

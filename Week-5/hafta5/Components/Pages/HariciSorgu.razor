@@ -1,0 +1,36 @@
+﻿@page "/haricisorgu"
+@page "/haricisorgu/{PersonelID}"
+@inject NavigationManager nav
+
+<h3>HariciSorgu</h3>
+<div>
+	<p>UrunID:@UrunID</p>
+	<p>Urun Adı: @urunAdi</p>
+	<p>PersonelAdı: @PersonelID</p>
+	
+</div>
+
+@code {
+	public int UrunID{ get; set; }
+	public string urunAdi{ get; set; }
+
+	//sadece route ile gelir. query string den gelmez.
+	[Parameter]
+	public int PersonelID { get; set; }
+
+
+	//query string i yakalar.
+	protected override void OnInitialized()
+	{
+		Uri sayfa=nav.ToAbsoluteUri(nav.Uri);
+		var gelenParametreler=System.Web.HttpUtility.ParseQueryString(sayfa.Query);
+		// if(gelenParametreler.TryGetValue("id",out int data))
+		// {
+		// 	UrunID = data;
+		// }
+		UrunID=Convert.ToInt32(gelenParametreler["id"]);
+		urunAdi=gelenParametreler["ad"];
+		//https://localhost:7217/haricisorgu?ad=kalem&id=42
+		//TryGetValue ya bak
+	}
+}
